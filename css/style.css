@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Raleway');
+
+#wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+nav {
+  background-color: rgb(239,223,223);
+}
+
+nav ul {
+  padding-left: 0;
+  list-style: none;
+  text-align: center;
+  font-size:13px;
+}
+
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav a {
+  display: inline-block;
+  padding: 10px;
+  color: #222;
+}
+
+a {
+  color: rgb(191,129,156);
+}
+
+
+a:hover {
+  color: rgb(81,163,248);
+}
+
+a:visited {
+  color: #222;
+}
+
+header {
+  align-content: center;
+}
+
+.center{
+  text-align:center;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 35px;
+  padding-left: 0;
+  color: #222;
+  text-align: center;
+}
+
+h3 {
+  background-color: #ddd;
+}
+
+h5 {
+  display: block;
+  text-align: center;
+}
+
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.headline1 {
+  text-align: left;
+  border-color: #ddd;
+
+}
+
+.headline3 {
+  padding-bottom: 40px;
+}
+
+#digital {
+  padding-top: 50px;
+}
+
+#study-breaks {
+  padding-top: 50px;
+}
+
+img {
+  padding: 1px;
+  border:1px #222;
+  background-color:#222;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+img[src="img/headshot.jpg"] {
+  float: right;
+  padding: 1px;
+  border:1px #222;
+  background-color:#222;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+img[src="img/tmh.jpg"] {
+  float: left;
+  height: 150px;
+  margin: 30px;
+}
+
+img[src="img/yoani.jpg"] {
+  float: left;
+  height: 100px;
+  margin:0 auto;
+  padding-right: 10px;
+  background-color:rgb(255,255,255);
+}
+
+img[src="img/flood-pump.jpg"] {
+  height:100px;
+  float: right;
+  margin: 0 auto;
+  padding-right:10px;
+  background-color: rgb(255,255,255)
+}
+
+img[src="img/lampoons.jpg"] {
+  height:100px;
+  float:left;
+  margin: 0 auto;
+  padding-right:25px;
+  background-color:rgb(255,255,255);
+  padding-bottom: 10px;
+}
+
+img[src="img/magnum.jpg"] {
+  height:100px;
+  float:right;
+  margin: 0 auto;
+  padding-right:25px;
+  background-color:rgb(255,255,255);
+}
